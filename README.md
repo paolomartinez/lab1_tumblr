@@ -39,6 +39,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+My partner and I spent an hour trying to fix the Alamofire "No such module: Alamofire" error.
+
 ## License
 
 Copyright [2018] [Paolo Martinez, Mike Lin]
